@@ -19,9 +19,23 @@
 - 👨‍💻 Open to **collaborations and research opportunities in Data Science and AI**
 - 📧 Reach me at **kshitijsaxena2507@gmail.com**
 
+### 🚀 Featured Projects
+
+**[Deepfake Detection with Deep Learning](https://github.com/kshitij2602/deepfake_detetection)**
+Master's capstone project classifying real vs. AI-generated faces (140K FFHQ/StyleGAN images) using a custom CNN, ResNet50, and EfficientNetB0 — the custom CNN won, hitting 88% accuracy vs. 73% and 55% for the transfer-learning models. Ships with a Streamlit dashboard for model comparison and frame-by-frame video analysis.
+`Python` `TensorFlow/Keras` `OpenCV` `Streamlit`
+
+**[Stock Market Analysis & Forecasting](https://github.com/kshitij2602/stock_market_analysis)**
+End-to-end stock analysis toolkit — data cleaning, exploratory trend visualization, and time-series forecasting (Prophet, ARIMA) with accuracy evaluation via scikit-learn.
+`Python` `Pandas` `Prophet` `ARIMA` `Plotly`
+
+**[OTT Platform Analysis](https://github.com/kshitij2602/OTT_analysis)**
+Early-stage analysis of OTT/streaming platform data.
+`Python`
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mr-kshitij-saxena" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/kshitij-saxena-ks09" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kshitij Saxena on LinkedIn" height="30" width="40" />
   </a>
 </p>
