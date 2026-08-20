@@ -35,7 +35,7 @@ Early-stage analysis of OTT/streaming platform data.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kshitij-saxena-ks09" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mr-kshitij-saxena" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kshitij Saxena on LinkedIn" height="30" width="40" />
   </a>
 </p>
